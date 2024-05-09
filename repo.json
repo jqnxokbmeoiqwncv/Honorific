@@ -1,0 +1,28 @@
+[
+  {
+    "Author": "Caraxi",
+    "Name": "Honorific",
+    "Punchline": "Customized titles for you and yours.",
+    "Description": "Assign custom titles to players.",
+    "Tags": [
+      "Customization",
+      "Design",
+      "Character",
+      "Title"
+    ],
+    "InternalName": "Honorific",
+    "AssemblyVersion": "1.4.1.0",
+    "TestingAssemblyVersion": "1.4.1.0",
+    "RepoUrl": "https://github.com/Caraxi/Honorific",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 9,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 1,
+    "LastUpdate": 1618608322,
+    "DownloadLinkInstall": "https://github.com/jqnxokbmeoiqwncv/Honorific/releases/download/1.4.1.0/Honorific.zip",
+    "DownloadLinkUpdate": "https://github.com/jqnxokbmeoiqwncv/Honorific/releases/download/1.4.1.0/Honorific.zip",
+    "DownloadLinkTesting": "https://github.com/jqnxokbmeoiqwncv/Honorific/releases/download/1.4.1.0/Honorific.zip",
+    "IconUrl": "https://raw.githubusercontent.com/jqnxokbmeoiqwncv/Honorific/main/images/icon.png"
+  }
+]
